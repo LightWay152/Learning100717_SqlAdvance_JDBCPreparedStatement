@@ -1,0 +1,7 @@
+Sql Advance - JDBC Advance
+
+- INNER/OUTER JOIN and JOIN are the same -> can remove INNER/OUTER
+- WHERE is filter data BEFORE data synthesis, HAVING filter data AFTER data synthesis
+- Config SQL Authenticatinon mode noted at Note_050717.txt in Learning050717
+- Remmemer to copy sql4jdbc jar file into lib folder
+- Database EShopV10 -> Ask me via email: dao.nbm1502@gmail.com
